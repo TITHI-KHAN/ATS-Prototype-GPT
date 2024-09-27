@@ -1,6 +1,6 @@
 # ATS-Prototype-GPT
 
-Automatic Text Simplification (ATS) Prototype GPT
+## Automatic Text Simplification (ATS) Prototype GPT
 
 This paragraph, meticulously composed with a deliberate complexity, stands as a quintessential example of intricate writing, aimed at illustrating the sophisticated interplay of syntax, diction, and thematic depth that can be achieved through careful linguistic craftsmanship. Conceived and articulated by me, it exemplifies how a writer can deftly employ an array of advanced vocabulary, multifaceted sentence structures, and layered meanings to construct a narrative that not only challenges the reader's cognitive engagement but also enriches their interpretive experience.
 
